@@ -1,0 +1,14 @@
+<head>
+  <style>
+    div {
+      padding: 16px;
+      background-color: #fabada;
+      color: #000000;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Title with a background color</h1>
+  </div>
+</body>
